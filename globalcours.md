@@ -1,6 +1,3 @@
-Voici le texte réécrit :
-
----
 
 **Cours Organisé sur les Réseaux Mobiles**
 
