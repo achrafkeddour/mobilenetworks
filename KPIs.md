@@ -13,7 +13,10 @@ Trafic (Traffic)
 ----
 Expérience Client (QoE - Quality of Experience)
 ----
+----
 
+## models for forcasting 
+----
 
 ARIMA for Accessibility and Retainability (trends and seasonality).
 ----
